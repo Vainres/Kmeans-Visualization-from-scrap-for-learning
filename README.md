@@ -1,5 +1,5 @@
 # Kmeans Visualization
-### First, create some random points.
+### First, create some random points by click on the board.
 ### Choose a number of clusters and randomly create clusters
 ![Example1](/1.png)
 ### Run step by step to find optimized solution
